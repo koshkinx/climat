@@ -1,0 +1,140 @@
+body {
+  font-family: "Istok Web", sans-serif;
+
+  background: linear-gradient(
+    247.77deg,
+    rgba(16, 225, 254, 0.44) -6.18%,
+    rgba(234, 92, 92, 0.42) 41.64%,
+    rgba(7, 70, 233, 0.41) 100.72%
+  );
+}
+.container {
+  padding-top: 48px;
+  width: 1288px;
+  margin: 0 auto;
+}
+.elipse {
+  display: inline-block;
+}
+.ellipse2 {
+  padding: 0 6px;
+}
+
+.menu {
+  background: rgba(243, 227, 227, 0.21);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  font-size: 20px;
+  margin-left: 666px;
+  display: inline-block;
+  text-align: center;
+  width: 393px;
+  height: 74px;
+  /* border: 1px solid black; */
+}
+.menu1 {
+  text-decoration: none;
+  position: relative;
+  top: 23px;
+  color: #fefefe;
+  padding-right: 46px;
+}
+.menu2 {
+  text-decoration: none;
+  color: #fefefe;
+  padding-right: 54px;
+}
+.menu3 {
+  position: relative;
+  top: 11px;
+  text-decoration: none;
+  color: #fefefe;
+}
+.circle {
+  background: rgba(239, 226, 228, 0.33);
+  background-blend-mode: darken;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+  font-size: 30px;
+  margin-left: 88px;
+  float: right;
+  margin-left: 88px;
+  color: #ffffff;
+  text-align: center;
+  display: inline-block;
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+}
+.circle1 {
+  position: relative;
+  top: 11px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.text {
+  margin-left: 95px;
+  margin-top: 255px;
+  display: inline-block;
+}
+.climat {
+  color: #ffffff;
+  font-size: 100px;
+  margin-bottom: 45px;
+}
+.you {
+  font-size: 40px;
+  color: #fefefe;
+  margin-bottom: 45px;
+}
+.from {
+  font-size: 30px;
+  color: #becdf8;
+  margin-bottom: 154px;
+}
+.button {
+  margin-bottom: 45px;
+}
+.button1 {
+  color: #fefefe;
+  width: 207px;
+  height: 39px;
+  background: rgba(243, 227, 227, 0.21);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  border: 0px;
+}
+.agree {
+  color: #fefefe;
+  font-size: 20px;
+  margin-bottom: 73px;
+}
+
+.picture {
+  margin-top: 418px;
+  display: inline-block;
+  float: right;
+}
+.pi1 {
+  padding: 13px;
+  display: inline-block;
+  background-image: url("/img/Rectangle\ 3.png");
+  background: rgba(243, 227, 227, 0.54);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.pi2 {
+  background-image: url("./img/Rectangle\ 4.png");
+  display: inline-block;
+  padding: 13px 15px 13px 11px;
+  background: rgba(243, 227, 227, 0.54);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+.pi3 {
+  padding: 13px 0 13px 13px;
+  background-image: url("/img/Rectangle\ 3\ \(1\).png");
+  display: inline-block;
+  background: rgba(243, 227, 227, 0.54);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px 0 0 20px;
+}
